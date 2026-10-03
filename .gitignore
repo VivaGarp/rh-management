@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Virtual environments
+.venv/
+.venv-python314-backup/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Django
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
